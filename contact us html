@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial - scale=1 . e">
+<title>Responsive Contact US Page</title>
+<link rel="stylesheet" type=" text/css" href="style.css">
+</head>
+<body>
+<section class=" contact">
+<div class="content">
+        <h2>Contact Us</h2>
+        <p> Welcome to the page and feel free to contact us for amy issues or for any request</p>
+</div>
+<div class=" Container">
+<div class=" contactInfo">
+<div class=" box">
+<div class="text">
+        <h3>Address</h3>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class=" box">
+      
+        <div class="text">
+                <h3>Phone No.</h3>
+                        <p>+91 7676876460</p>
+        </div>
+        </div>
+        
+
+        <div class=" box">
+                
+                <div class="text">
+                        <h3>Email Id</h3>
+                                <p>contactus020@gmail.com</p>
+                
+                </div>
+                </div>
+
+         <div class="contactform">
+                        <form>
+                                <h2>Send Message</h2>
+                                <div class="inputBox">
+                                        <input type="text" name="" required="required">
+                                        <span>Full Name</span>
+                                </div>
+                                <div class="inputBox">
+                                        <input type="text" name="" required="required">
+                                        <span>Email Id</span>
+                                </div>
+                                <div class="inputBox">
+                                        <textarea required="required"></textarea>
+                                        <span>Type Your Message...</span>
+                                </div>
+                                <div class="inputBox">
+                                        <input type="Submit" name="" value="Send">      
+                                        
+                                </div>
+                        </form>
+                </div>
+                
+                </section>    
+                
+                
+                </body>
+                </html>
